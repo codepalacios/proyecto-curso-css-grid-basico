@@ -11,4 +11,3 @@ Agradecimientos y recursos útiles:
 - <a href="https://www.flaticon.es/iconos-gratis/astronauta" title="astronauta iconos">Astronauta iconos creados por YI-PIN - Flaticon</a>
 - [Pexels](https://www.pexels.com/es-es/)
 - [tinypng](https://tinypng.com/)
-# proyecto-curso-css-grid-basico
